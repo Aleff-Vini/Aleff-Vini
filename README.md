@@ -16,7 +16,7 @@ My name is Aleff Vinicius, and I am currently pursuing higher education with a k
 
 If you have any suggestions, advice, or simply wish to discuss technology and programming, do not hesitate to reach out.
 
-- [LinkedIn](https://www.linkedin.com/in/aleff-vinicius-615024177/))
-- [Email](aleffvn123@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/aleff-vinicius-615024177/)
+- [Email]aleffvn123@gmail.com
 
 Thank you for visiting my profile!
